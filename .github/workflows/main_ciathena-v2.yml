@@ -61,4 +61,4 @@ jobs:
           app-name: 'ciATHENA-v2'
           slot-name: 'Production'
           package: dist
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_569B1085EF8B4F4BA4ADDB75378527C9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1F934C5BF3F4C6AA6D715C3FDE44030 }}
